@@ -8,7 +8,7 @@
     "\uE004": ["aseprite", "ase"],
     "\uE005": ["paint_dot_net", "paitn_dot_net", "pdn"],
     "\uE006": ["blockbench"],
-    "\uE007": ["steam"],
+    "\uE007": ["vim"],
 
     "\uE008": ["quilt"],
     "\uE009": ["fabric"],
@@ -28,13 +28,13 @@
     "\uE016": ["python"],
     "\uE017": ["github"],
 
-    "\uE018": ["discord"], 
+    "\uE018": ["discord"],
     "\uE019": ["telegram"],
     "\uE01A": ["whatsapp"],
     "\uE01B": ["bluesky", "bsky"],
     "\uE01C": ["mastodon"],
     "\uE01D": ["twitter"],
     "\uE01E": ["catppuccin"],
-    "\u0000": []
+    "\u0000": ["steam"]
   }
 }
