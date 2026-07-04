@@ -15,7 +15,7 @@
     "\uE00A": ["axolotl"],
     "\uE00B": ["blowfish", "pufferfish", "guh"],
     "\uE00C": ["tropical_fish"],
-    "\uE00D": ["fish", "🐟"],
+    "\uE00D": ["fish"],
     "\uE00E": ["jelly", "jellyfish"],
     "\uE00F": ["seahorse"],
 
@@ -26,7 +26,7 @@
     "\uE014": ["snake", "snek"],
     "\uE015": ["bat"],
     "\uE016": ["bug"],
-    "\uE017": ["dove", "dove_of_peace"],
+    "\uE017": ["dove","dove_of_peace"],
 
     "\uE018": ["cat"],
     "\uE019": ["cat_black"],
@@ -56,6 +56,10 @@
     "\uE02F": ["horse"],
 
     "\uE030": ["raccoon"],
-    "\uE031": ["red_panda", "wah"]
+    "\uE031": ["red_panda", "wah"],
+    "\uE032": ["t_rex", "dinosaur","theropod"],
+    "\uE033": ["brachiosaurus", "dinosaur2", "sauropod"],
+    "\uE034": ["spinosaurus", "dinosaur3", "theropod2"],
+    "\uE035": ["pterodactyl", "dinosaur4", "pterosaur"]
   }
 }
